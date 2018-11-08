@@ -1,0 +1,12 @@
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=RithviksWebSite
+--content-root=C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite
+--file=C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\Views\Home\About.cshtml
+--file=C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\Views\Home\Contact.cshtml
+--file=C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\Views\Home\Index.cshtml
+--file=C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\Views\Shared\Error.cshtml
+--file=C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\Views\Shared\_Layout.cshtml
+--file=C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\Views\_ViewImports.cshtml
+--file=C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\Views\_ViewStart.cshtml
