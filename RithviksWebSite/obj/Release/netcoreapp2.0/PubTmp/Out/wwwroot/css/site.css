@@ -15,6 +15,7 @@
     }
 
 
+
     /* This container is needed to position the front and back side */
 .flip-card-inner {
     position: relative;
@@ -50,9 +51,7 @@
         color: white;
         -webkit-transform: rotateY(180deg);
     }
-.hideme {
-    opacity: 0;
-}
+
 
 
 
