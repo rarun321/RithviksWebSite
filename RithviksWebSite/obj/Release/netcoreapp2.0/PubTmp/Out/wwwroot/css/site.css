@@ -8,11 +8,18 @@
     .flip-card {
         background-color: transparent;
         width: 450px;
-        height: 100px;
-       
-        perspective: 1000px;
-        border-radius: 25px;
+        height: 100px;         
+        
     }
+
+.know {
+    background-color: transparent;
+    width: 450px;
+    height: 100px;
+    perspective: 1000px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
 
 
 
