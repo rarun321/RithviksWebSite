@@ -12,6 +12,10 @@
         
     }
 
+    .fixed{
+        position:fixed;
+    }
+
 .know {
     background-color: transparent;
     width: 450px;
