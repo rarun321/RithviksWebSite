@@ -1,0 +1,22 @@
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\bin\Release\netcoreapp2.0\-Rithvik Arun.deps.json
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\bin\Release\netcoreapp2.0\-Rithvik Arun.runtimeconfig.json
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\bin\Release\netcoreapp2.0\-Rithvik Arun.runtimeconfig.dev.json
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\bin\Release\netcoreapp2.0\-Rithvik Arun.dll
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\bin\Release\netcoreapp2.0\-Rithvik Arun.pdb
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.csprojResolveAssemblyReference.cache
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.csproj.CoreCompileInputs.cache
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.AssemblyInfoInputs.cache
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.AssemblyInfo.cs
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.dll
+C:\Users\rithv\OneDrive\Documents\GitHub\RithviksWebSite\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.pdb
+C:\Users\rithv\OneDrive\Documents\GitHub\-Rithvik Arun\RithviksWebSite\bin\Release\netcoreapp2.0\-Rithvik Arun.deps.json
+C:\Users\rithv\OneDrive\Documents\GitHub\-Rithvik Arun\RithviksWebSite\bin\Release\netcoreapp2.0\-Rithvik Arun.runtimeconfig.json
+C:\Users\rithv\OneDrive\Documents\GitHub\-Rithvik Arun\RithviksWebSite\bin\Release\netcoreapp2.0\-Rithvik Arun.runtimeconfig.dev.json
+C:\Users\rithv\OneDrive\Documents\GitHub\-Rithvik Arun\RithviksWebSite\bin\Release\netcoreapp2.0\-Rithvik Arun.dll
+C:\Users\rithv\OneDrive\Documents\GitHub\-Rithvik Arun\RithviksWebSite\bin\Release\netcoreapp2.0\-Rithvik Arun.pdb
+C:\Users\rithv\OneDrive\Documents\GitHub\-Rithvik Arun\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.csprojResolveAssemblyReference.cache
+C:\Users\rithv\OneDrive\Documents\GitHub\-Rithvik Arun\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.csproj.CoreCompileInputs.cache
+C:\Users\rithv\OneDrive\Documents\GitHub\-Rithvik Arun\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.AssemblyInfoInputs.cache
+C:\Users\rithv\OneDrive\Documents\GitHub\-Rithvik Arun\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.AssemblyInfo.cs
+C:\Users\rithv\OneDrive\Documents\GitHub\-Rithvik Arun\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.dll
+C:\Users\rithv\OneDrive\Documents\GitHub\-Rithvik Arun\RithviksWebSite\obj\Release\netcoreapp2.0\-Rithvik Arun.pdb
