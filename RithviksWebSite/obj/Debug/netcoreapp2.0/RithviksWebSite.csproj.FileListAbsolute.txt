@@ -43,3 +43,15 @@ C:/Users/rithv/OneDrive/Documents/GitHub/RithviksWebSite/RithviksWebSite/obj/Deb
 /Users/rithvik/GitHub/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.dll
 /Users/rithvik/GitHub/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.pdb
 /Users/rithvik/GitHub/RithviksWebSite/RithviksWebSite/bin/Debug/netcoreapp2.0/wwwroot/images/RithvikArun.jpeg
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/bin/Debug/netcoreapp2.0/wwwroot/images/RithvikArun.jpeg
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/bin/Debug/netcoreapp2.0/RithviksWebSite.deps.json
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/bin/Debug/netcoreapp2.0/RithviksWebSite.runtimeconfig.json
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/bin/Debug/netcoreapp2.0/RithviksWebSite.runtimeconfig.dev.json
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/bin/Debug/netcoreapp2.0/RithviksWebSite.dll
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/bin/Debug/netcoreapp2.0/RithviksWebSite.pdb
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.csprojAssemblyReference.cache
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.csproj.CoreCompileInputs.cache
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.AssemblyInfoInputs.cache
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.AssemblyInfo.cs
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.dll
+/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.pdb
