@@ -16,4 +16,100 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\images\IMG_0246.HEIC" />
+    <Content Remove="wwwroot\images\Rithvik!2.HEIC" />
+    <Content Remove="wwwroot\images\IMG_0246.jpg" />
+    <Content Remove="wwwroot\images\NewPic.jpg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\.babelrc.js" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\.editorconfig" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\.eslintignore" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\.eslintrc.json" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\.gitattributes" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\.gitignore" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\.stylelintignore" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\.stylelintrc" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\.travis.yml" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_config.yml" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_data\breakpoints.yml" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_data\browser-bugs.yml" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_data\browser-features.yml" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_data\colors.yml" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_data\examples.yml" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_data\grays.yml" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_data\nav.yml" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_data\theme-colors.yml" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_data\translations.yml" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\ads.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\callout-danger-async-methods.md" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\callout-info-mediaqueries-breakpoints.md" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\callout-warning-color-assistive-technologies.md" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\docs-navbar.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\docs-sidebar.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\favicons.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\footer.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\header.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\scripts.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\social.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\icons\bootstrap.svg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\icons\download.svg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\icons\github.svg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\icons\import.svg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\icons\lightning.svg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\icons\menu.svg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\icons\slack.svg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_includes\icons\twitter.svg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_layouts\default.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_layouts\docs.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_layouts\examples.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_layouts\home.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_layouts\redirect.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_layouts\simple.html" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_plugins\bugify.rb" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_plugins\callout.rb" />
+    <Content Remove="wwwroot\images\ritfav.ico" />
+    <Content Remove="wwwroot\images\fav.ico" />
+    <Content Remove="wwwroot\images\RithvikLOGO.ico" />
+    <Content Remove="wwwroot\images\favico.ico" />
+    <Content Remove="wwwroot\images\rithviklogo_dry_icon.ico" />
+    <Content Remove="wwwroot\images\favi.ico" />
+    <Content Remove="wwwroot\images\rsz_1rithviklogo.png" />
+    <Content Remove="wwwroot\images\RithvikLogoRZ.png" />
+    <Content Remove="wwwroot\images\Circut - Copy.jpg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_plugins\example.rb" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\_plugins\markdown-block.rb" />
+    <Content Remove="wwwroot\lib\bootstrap-4.3\.DS_Store" />
+    <Content Remove="wwwroot\lib\bootstrap-4.3\css\bootstrap.css" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\assets\brand\bootstrap-outline.svg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\assets\brand\bootstrap-punchout.svg" />
+    <Content Remove="wwwroot\lib\bootstrap-4.0.0\assets\brand\bootstrap-social.png" />
+    <Content Remove="wwwroot\lib\bootstrap-4.3\css\bootstrap-grid.css" />
+    <Content Remove="wwwroot\lib\bootstrap-4.3\css\bootstrap-grid.css.map" />
+    <Content Remove="wwwroot\lib\bootstrap-4.3\css\bootstrap-grid.min.css" />
+    <Content Remove="wwwroot\lib\bootstrap-4.3\css\bootstrap-grid.min.css.map" />
+    <Content Remove="wwwroot\lib\bootstrap-4.3\css\bootstrap-reboot.css" />
+    <Content Remove="wwwroot\lib\bootstrap-4.3\css\bootstrap-reboot.css.map" />
+    <Content Remove="wwwroot\lib\bootstrap-4.3\css\bootstrap.css.map" />
+    <Content Remove="wwwroot\lib\bootstrap-4.3\css\bootstrap.min.css" />
+    <Content Remove="wwwroot\lib\bootstrap-4.3\css\bootstrap.min.css.map" />
+    <Content Remove="wwwroot\images\Rithvik - Copy.jpeg" />
+    <Content Remove="wwwroot\images\Rithvik.jpeg" />
+    <Content Remove="wwwroot\images\Rithvik2.jpeg" />
+    <Content Remove="wwwroot\images\Rithvik3.jpeg" />
+    <Content Remove="wwwroot\images\Rithvik4.jpg" />
+    <Content Remove="wwwroot\images\black-and-white-gray-grey-1050305.jpg" />
+    <Content Remove="wwwroot\images\rsz_rithvik.jpg" />
+    <Content Remove="wwwroot\images\Education-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Update="wwwroot\images\favico.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\images\favicon.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\images\RithvikArun.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
 </Project>
