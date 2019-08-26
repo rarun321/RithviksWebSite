@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/RithviksWebSite.csproj": {}
+    "/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/RithviksWebSite.csproj": {}
   },
   "projects": {
-    "/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/RithviksWebSite.csproj": {
+    "/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/RithviksWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/RithviksWebSite.csproj",
+        "projectUniqueName": "/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/RithviksWebSite.csproj",
         "projectName": "RithviksWebSite",
-        "projectPath": "/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/RithviksWebSite.csproj",
+        "projectPath": "/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/RithviksWebSite.csproj",
         "packagesPath": "/Users/rithvik/.nuget/packages/",
-        "outputPath": "/Users/rithvik/Projects/RithviksWebsite/RithviksWebSite/obj/",
+        "outputPath": "/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

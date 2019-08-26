@@ -7,9 +7,8 @@
         $("#Projects").hide();
         $("#Intro").hide();
         $("#Technologies").hide();
-
-
-
+        $("#PersonalContact").hide();
+   
         $("#PasswordPhrase").hide().fadeIn(1500, function () {
             TypeEffect();
         });
@@ -39,6 +38,7 @@
                     $("#Projects").fadeIn(2000);
                     $("#Intro").fadeIn(2000);
                     $("#Technologies").fadeIn(2000);
+                    $("#PersonalContact").fadeIn(2000);
                 });
             })
         }
@@ -48,3 +48,7 @@ $("#StreamWorkDot").click(function () {
     $(this).toggleClass("flip");
     $("#StreamWorkDotInner").toggleClass("flipIn")
 }); 
+
+function LinkToLinkedIn() {
+
+}
