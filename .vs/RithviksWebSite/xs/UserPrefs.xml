@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{0007BCAC-5EC8-46E2-97C1-8216FE10FDC5}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="RithviksWebSite/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="RithviksWebSite/Views/Home/Index.cshtml" Line="303" Column="27" />
+      <File FileName="RithviksWebSite/Views/Home/Index.cshtml" Line="311" Column="1" />
       <File FileName="RithviksWebSite/Views/Shared/_Layout.cshtml" />
       <File FileName="RithviksWebSite/wwwroot/js/site.js" />
       <File FileName="RithviksWebSite/RithvikJQuery.js" />
@@ -11,12 +11,14 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RithviksWebSite" expanded="True">
-            <Node name="RithviksWebSite" expanded="True" selected="True">
+            <Node name="RithviksWebSite" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
