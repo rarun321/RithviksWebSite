@@ -44,3 +44,29 @@
 .dot-back {
     -webkit-transform: rotateY(180deg);
 }
+
+.rotate {
+  animation: rotation 2s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(359deg);
+  }
+}
+
+.move{
+    animation: mymove 5s infinite;
+}
+
+@-webkit-keyframes mymove {
+  0%   {left: 0px;}
+  25%  {left: 210px;}
+  75%  {left: 210px}
+  100% {left: 0px;}
+}
+
+
