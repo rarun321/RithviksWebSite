@@ -6,12 +6,13 @@
     width: 325px;
     height: 325px;
     border-radius: 50%;
-    background-color: transparent;
     display: block;
     margin-left: auto;
     margin-right: auto;
     transition: transform 1s;
     perspective: 1000px;
+   background: radial-gradient(circle at 100px 100px, #5cabff, #000);
+
 }
 
 .dot-inner {
@@ -28,7 +29,7 @@
 }
 
 .dot-inner.flipIn {
-    -webkit-transform: rotateY(180deg);
+    -webkit-transform: rotate(180deg);
 }
 
 .dot-front, .dot-back {
@@ -58,15 +59,14 @@
   }
 }
 
-.move{
-    animation: mymove 5s infinite;
 }
 
-@-webkit-keyframes mymove {
-  0%   {left: 0px;}
-  25%  {left: 210px;}
-  75%  {left: 210px}
-  100% {left: 0px;}
+.zoom{
+    transition: transform 2s
+}
+
+.zoom:hover{
+    transform:scale(1.1);
 }
 
 

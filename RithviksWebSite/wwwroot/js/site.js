@@ -20,6 +20,10 @@ function TypeEffect() {
     }
 }
 
+function Open(url) {
+    window.open(url);
+}
+
 
 
 //$("#StreamWorkDot").click(function () {

@@ -1,24 +1,23 @@
 ﻿<Properties StartupConfiguration="{0007BCAC-5EC8-46E2-97C1-8216FE10FDC5}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="RithviksWebSite/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="RithviksWebSite/Views/Home/Index.cshtml" Line="171" Column="31" />
+      <File FileName="RithviksWebSite/Views/Home/Index.cshtml" Line="352" Column="15" />
       <File FileName="RithviksWebSite/wwwroot/js/site.js" />
       <File FileName="RithviksWebSite/wwwroot/css/site.css" />
       <File FileName="RithviksWebSite/Controllers/HomeController.cs" />
+      <File FileName="RithviksWebSite/wwwroot/images/Work.png" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RithviksWebSite" expanded="True">
-            <Node name="RithviksWebSite" expanded="True">
+            <Node name="RithviksWebSite" expanded="True" selected="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
               <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
@@ -41,5 +40,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.RithviksWebSite PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.RithviksWebSite PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>
