@@ -71,3 +71,5 @@ C:/Users/rithv/OneDrive/Documents/GitHub/RithviksWebSite/RithviksWebSite/obj/Deb
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.dll
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.pdb
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.csprojAssemblyReference.cache
+/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.csproj.CoreCompileInputs.cache
+/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.0/RithviksWebSite.genruntimeconfig.cache
