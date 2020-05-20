@@ -1,0 +1,10 @@
+/Users/rithvik/C#/RithviksWebSite/RithviksWebSite
+--output-path=obj/Release/netcoreapp2.2/
+--application-name=RithviksWebSite
+--content-root=/Users/rithvik/C#/RithviksWebSite/RithviksWebSite
+--file=/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/Views/Home/Index.cshtml
+--file=/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/Views/Shared/Error.cshtml
+--file=/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/Views/Shared/_Layout.cshtml
+--file=/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/Views/_ViewImports.cshtml
+--file=/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/Views/_ViewStart.cshtml
