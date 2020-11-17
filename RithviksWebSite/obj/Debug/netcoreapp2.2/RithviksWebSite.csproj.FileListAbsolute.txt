@@ -1,4 +1,3 @@
-/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/bin/Debug/netcoreapp2.2/wwwroot/images/RithvikArun.jpeg
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/bin/Debug/netcoreapp2.2/wwwroot/js/site.js
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/bin/Debug/netcoreapp2.2/appsettings.Development.json
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/bin/Debug/netcoreapp2.2/appsettings.json
@@ -9,10 +8,10 @@
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/bin/Debug/netcoreapp2.2/RithviksWebSite.runtimeconfig.dev.json
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/bin/Debug/netcoreapp2.2/RithviksWebSite.dll
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/bin/Debug/netcoreapp2.2/RithviksWebSite.pdb
-/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.2/RithviksWebSite.csprojAssemblyReference.cache
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.2/RithviksWebSite.AssemblyInfoInputs.cache
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.2/RithviksWebSite.AssemblyInfo.cs
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.2/RithviksWebSite.csproj.CoreCompileInputs.cache
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.2/RithviksWebSite.dll
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.2/RithviksWebSite.pdb
 /Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.2/RithviksWebSite.genruntimeconfig.cache
+/Users/rithvik/C#/RithviksWebSite/RithviksWebSite/obj/Debug/netcoreapp2.2/RithviksWebSite.csprojAssemblyReference.cache

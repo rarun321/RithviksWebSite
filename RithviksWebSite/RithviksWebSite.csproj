@@ -102,15 +102,13 @@
     <Content Remove="wwwroot\images\black-and-white-gray-grey-1050305.jpg" />
     <Content Remove="wwwroot\images\rsz_rithvik.jpg" />
     <Content Remove="wwwroot\images\Education-removebg-preview.png" />
+    <Content Remove="wwwroot\images\RithvikArun.jpeg" />
   </ItemGroup>
   <ItemGroup>
     <Content Update="wwwroot\images\favico.ico">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\images\favicon.ico">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Update="wwwroot\images\RithvikArun.jpeg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\js\site.js">
